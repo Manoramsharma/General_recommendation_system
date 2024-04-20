@@ -56,4 +56,7 @@ This project is a Flask-based web application tailored for users and organizers 
 
 This general recommendation system is designed to be adaptable, allowing easy integration and customization according to specific needs for various recommendation scenarios.
 
+## Recommendations Output
+![Recommendations Output](https://github.com/Manoramsharma/General_recommendation_system/blob/main/recommendations.png?raw=true)
+
 ## Kudos <3
