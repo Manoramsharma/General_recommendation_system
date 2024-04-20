@@ -1,0 +1,32 @@
+HackathonID,Name,Required Skills,Interests,Date,Difficulty
+1,Global AI Hackathon,"Machine Learning, Python, Data Analysis","AI, Data Science, Innovation",2024-07-10,Intermediate
+2,Blockchain Challenge,"Blockchain, Solidity, Smart Contracts","Cryptocurrency, Decentralization, Fintech",2024-08-15,Advanced
+3,Frontend Spectacular,"HTML, CSS, JavaScript","Web Design, User Experience, Accessibility",2024-09-01,Beginner
+4,Cyber Security Lockdown,"Cybersecurity, Ethical Hacking, Network Security","Security, Network Defense, Threat Detection",2024-10-05,Advanced
+5,Data Science Marathon,"Statistics, R, Python","Big Data, Machine Learning, Statistics",2024-11-20,Intermediate
+6,Cloud Computing Fest,"AWS, Azure, Cloud Architecture","Cloud Services, Distributed Systems, Scalability",2024-12-15,Advanced
+7,Internet of Things Expo,"IoT, Arduino, Raspberry Pi","Automation, Smart Devices, IoT Security",2025-01-10,Beginner
+8,Android App Invent,"Java, Kotlin, Android SDK","Mobile Development, App Stores, User Interfaces",2025-02-07,Intermediate
+9,Game Development Derby,"Unity, C#, 3D Modeling","Game Design, Virtual Reality, Augmented Reality",2025-03-15,Intermediate
+10,Health Tech Challenge,"Machine Learning, Data Privacy, Python","Healthcare, AI, Remote Monitoring",2025-04-01,Advanced
+11,Global AI Hackathon,"Python, Data Analysis","AI, Data Science",2024-07-10,Intermediate
+12,Blockchain Challenge,"Blockchain, Smart Contracts","Cryptocurrency, Fintech",2024-08-15,Advanced
+13,Frontend Spectacular,"HTML, CSS, JavaScript","Web Design, User Experience",2024-09-01,Beginner
+14,Cyber Security Lockdown,"Cybersecurity, Network Security","Security, Ethical Hacking",2024-10-05,Advanced
+15,Data Science Marathon,"R, Statistics, Python","Machine Learning, Big Data",2024-11-20,Intermediate
+16,Cloud Computing Fest,"AWS, Azure","Cloud Services, Scalability",2024-12-15,Advanced
+17,Internet of Things Expo,"IoT, Arduino","Smart Devices, Automation",2025-01-10,Beginner
+18,Android App Invent,"Java, Kotlin","Mobile Development, User Interfaces",2025-02-07,Intermediate
+19,Game Development Derby,"Unity, C#","Game Design, Virtual Reality",2025-03-15,Intermediate
+20,Health Tech Challenge,"Data Privacy, Python","Healthcare, AI",2025-04-01,Advanced
+21,Robotics Rumble,"Arduino, Robotics","Engineering, Automation",2025-05-05,Beginner
+22,VR Innovation Summit,"Unity, 3D Modeling","Virtual Reality, Design",2025-06-20,Advanced
+23,Environmental Data Hack,"Python, R","Sustainability, Climate Change",2025-07-15,Intermediate
+24,Smart City Challenge,"IoT, Big Data","Urban Planning, Smart Technology",2025-08-10,Advanced
+25,Space Exploration Quest,"Astronomy, Python","Space, Research",2025-09-01,Beginner
+26,FinTech Festival,"Blockchain, Python","Finance, Technology",2025-10-15,Intermediate
+27,Social Media Marathon,"JavaScript, HTML","Social Networking, Marketing",2025-11-20,Beginner
+28,Machine Learning Meetup,"Python, Tensorflow","AI, Data Analysis",2025-12-10,Advanced
+29,Quantum Computing Colloquium,"Quantum Mechanics, Python","Computing, Physics",2026-01-15,Advanced
+30,Art & Technology Symposium,"3D Modeling, Photoshop","Art, Technology",2026-02-10,Beginner
+
